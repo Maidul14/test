@@ -1,0 +1,6 @@
+{
+  "name": "SOS Security",
+  "description": "Personal Emergency & Security SOS Application for instant active security alerts and Super SOS mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
