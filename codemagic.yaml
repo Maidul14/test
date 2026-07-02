@@ -6,8 +6,6 @@ workflows:
       java: 17
 
     scripts:
-      - name: Checkout
-        script: git clone $CM_REPOSITORY_URL .
 
       - name: Build APK
         script: ./gradlew assembleDebug
